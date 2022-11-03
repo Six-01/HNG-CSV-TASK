@@ -11,6 +11,7 @@ Clone the project
 ```
 
 **Install dependencies**
+**PS: This step negligible.**
 
 Use ```pip``` command to install requirements
 
